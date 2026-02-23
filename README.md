@@ -19,10 +19,6 @@ The Bacteria Database is a Flask-based web application that allows users to expl
 
 ---
 
-### Entity Relationship Diagram
-
-![ERD Diagram](/images/erd_diagram.png)
-
 ### Installation Instructions
 
 1. **Clone the Repository**:
