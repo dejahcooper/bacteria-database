@@ -27,7 +27,7 @@
 
   <!-- Right -->
   <ul class="navbar-nav ml-auto">
-    {% if session['_user_id'] %}
+    {% if session.get('_user_id') %}
       <li class="nav-item">
         <a class="nav-link" href="/favourites">Favourites</a>
       </li>
