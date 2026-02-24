@@ -43,3 +43,11 @@ button:hover {
     background-color: #f0f0f0; /* Changes the background color slightly on hover */
     box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.2); /* Makes the shadow more intense on hover */
 }
+
+.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    pointer-events: none;
+    white-space: nowrap;
+}
